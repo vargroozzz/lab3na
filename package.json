@@ -1,0 +1,24 @@
+{
+  "name": "lab3na",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dagrejs/graphlib": "^2.1.4",
+    "graphlib": "^2.1.8",
+    "mathjs": "^9.3.0",
+    "numbers": "^0.7.0",
+    "numeric": "^1.2.6"
+  },
+  "devDependencies": {
+    "@types/graphlib": "^2.1.7",
+    "@types/mathjs": "^6.0.11"
+  }
+}
